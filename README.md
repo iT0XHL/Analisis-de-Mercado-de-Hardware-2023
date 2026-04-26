@@ -8,7 +8,7 @@
 
 ## 🔗 Dashboard Interactivo
 
-👉 [Ver Dashboard Interactivo en Tableau Public]([COLOCA_AQUI_TU_LINK_DE_TABLEAU](https://public.tableau.com/app/profile/andre.salas/viz/Analisis_Mercado_Hardware_2023/Dashboard1?publish=yes))
+👉 [Ver Dashboard Interactivo en Tableau Public](https://public.tableau.com/app/profile/andre.salas/viz/Analisis_Mercado_Hardware_2023/Dashboard1?publish=yes)
 
 ---
 
